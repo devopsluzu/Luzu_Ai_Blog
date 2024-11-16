@@ -2,7 +2,7 @@ import Twitter from '@public/assets/Images/blog/socials/twitter.png';
 import Linkedin from '@public/assets/Images/blog/socials/linkedin.png';
 import Facebook from '@public/assets/Images/blog/socials/facebook.png';
 import ai from '@public/assets/Images/blog/AI.png';
-import onpageImage from '@public/assets/Images/blog/onpage.png';
+import onpageImage from '@public/assets/Images/blog/onPage.png';
 
 import analytics from '@public/assets/Images/blog/Analytics.png';
 import metaAds from '@public/assets/Images/blog/Meta Ads.png'
