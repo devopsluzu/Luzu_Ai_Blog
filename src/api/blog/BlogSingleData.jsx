@@ -12,7 +12,7 @@ const BlogSingleData= [
   {
     id: "exploring-the-transformative-power-of-artificial-intelligence",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/AI.png?alt=media&token=25e1ff04-942f-4218-b547-6acaa5791307",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/AI.png?alt=media&token=178606a2-5225-4025-bf8a-8b0eea83f4b7",
     category: "Artificial Intelligence",
     read: "4.5 minutes read",
     title: "Exploring the Transformative Power of Artificial Intelligence",
@@ -76,7 +76,7 @@ const BlogSingleData= [
   {
     id: "your-guide-for-technical-seo-make-your-website-shine-for-search-engines",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Technical%20SEO.png?alt=media&token=5cf9bd7e-8f1b-427a-bfdf-d7d72c0a20d6",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Technical%20SEO.png?alt=media&token=4800c9f2-cd17-4bc0-bc34-da772101977a",
     category: "SEO",
     read: "5.5 minutes read",
     title: "Your Guide for Technical SEO: Make Your Website Shine for Search Engines",
@@ -220,7 +220,7 @@ const BlogSingleData= [
   {
     id: "how-to-make-a-meta-ad-a-step-by-step-guide",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Meta%20Ads.png?alt=media&token=3eb127cb-4d81-4433-a4dd-02813ad8520b",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Meta%20Ads.png?alt=media&token=ad28a60c-d74e-4d5b-a67c-d828514d59af",
     category: "Marketing",
     read: "5 minutes read",
     title: "How to Make a Meta Ad: A Step-by-Step Guide",
@@ -354,7 +354,7 @@ const BlogSingleData= [
   {
     id: "how-to-leverage-customer-segmentation-for-better-targeting",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Analytics.png?alt=media&token=474ce5c3-3c18-4b8f-b160-1883be8b5cc2",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Analytics.png?alt=media&token=ea8be968-df26-4ff3-ae7f-54a960fbfd6e",
     category: "SEO",
     read: "6 minutes read",
     title: "How to Leverage Customer Segmentation for Better Targeting",
@@ -486,7 +486,7 @@ const BlogSingleData= [
   {
     id: "optimize-your-website-lets-explore-on-page-and-off-page-seo-together",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/On-Page%26Off-Page.png?alt=media&token=f1b1c72d-86e0-4375-95b2-ec9e2cda77fa",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/On-Page%26Off-Page.png?alt=media&token=535580d2-1bc4-4c54-aff3-57bb0cd63c5d",
     category: "SEO",
     read: "5.5 minutes read",
     title: "Optimize Your Website: Let’s explore on-page and off-page SEO together",
