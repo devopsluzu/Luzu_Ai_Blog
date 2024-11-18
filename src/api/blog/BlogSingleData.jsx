@@ -220,7 +220,7 @@ const BlogSingleData= [
   {
     id: "how-to-make-a-meta-ad-a-step-by-step-guide",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Meta%20Ads.svg?alt=media&token=cb9682b5-688f-44d7-9040-b0afacfaca75",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Meta%20Ads%20(1).svg?alt=media&token=986bb087-b4a7-446d-9dcc-f578edfda11d",
     category: "Marketing",
     read: "5 minutes read",
     title: "How to Make a Meta Ad: A Step-by-Step Guide",
