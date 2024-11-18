@@ -1,0 +1,40 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="630" fill="#6572F7"/>
+<g filter="url(#filter0_f_667_307)">
+<ellipse cx="599.5" cy="314.5" rx="269.5" ry="256.5" fill="#6E7BFF"/>
+</g>
+<rect width="373" height="347" transform="translate(413 141)" fill="#6E7BFF"/>
+<rect x="533" y="248" width="134" height="134" rx="17" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<line x1="568" y1="208" x2="568" y2="245" stroke="black" stroke-width="6"/>
+<line x1="637" y1="422" x2="637" y2="385" stroke="black" stroke-width="6"/>
+<line x1="706" y1="280" x2="669" y2="280" stroke="black" stroke-width="6"/>
+<line x1="494" y1="349" x2="531" y2="349" stroke="black" stroke-width="6"/>
+<line x1="602" y1="447" x2="602" y2="381" stroke="black" stroke-width="6"/>
+<line x1="603" y1="183" x2="603" y2="249" stroke="black" stroke-width="6"/>
+<line x1="568" y1="422" x2="568" y2="385" stroke="black" stroke-width="6"/>
+<line x1="731" y1="315" x2="665" y2="315" stroke="black" stroke-width="6"/>
+<line x1="469" y1="314" x2="535" y2="314" stroke="black" stroke-width="6"/>
+<circle cx="637" cy="433" r="9" transform="rotate(-180 637 433)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<line x1="637" y1="208" x2="637" y2="245" stroke="black" stroke-width="6"/>
+<circle cx="602" cy="458" r="9" transform="rotate(-180 602 458)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<line x1="706" y1="349" x2="669" y2="349" stroke="black" stroke-width="6"/>
+<line x1="494" y1="280" x2="531" y2="280" stroke="black" stroke-width="6"/>
+<circle cx="568" cy="433" r="9" transform="rotate(-180 568 433)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="568" cy="197" r="9" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="717" cy="280" r="9" transform="rotate(90 717 280)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="483" cy="349" r="9" transform="rotate(-90 483 349)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="603" cy="172" r="9" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="742" cy="315" r="9" transform="rotate(90 742 315)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="458" cy="314" r="9" transform="rotate(-90 458 314)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="637" cy="197" r="9" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="717" cy="349" r="9" transform="rotate(90 717 349)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<circle cx="483" cy="280" r="9" transform="rotate(-90 483 280)" fill="#6E7BFF" stroke="black" stroke-width="6"/>
+<path d="M565.318 350H556.455L582.091 280.182H590.818L616.455 350H607.591L586.727 291.227H586.182L565.318 350ZM568.591 322.727H604.318V330.227H568.591V322.727ZM635.784 280.182V350H627.33V280.182H635.784Z" fill="black"/>
+<defs>
+<filter id="filter0_f_667_307" x="290" y="18" width="619" height="593" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_667_307"/>
+</filter>
+</defs>
+</svg>
