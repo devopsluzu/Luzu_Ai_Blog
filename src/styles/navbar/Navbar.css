@@ -6,7 +6,7 @@
     position: fixed;
     z-index: 100;
     background-color: var(--prfec-black);
-    height: 56px;
+    height: 64px;
   }
   .navbar-container {
     width: 85%;
