@@ -1,18 +1,18 @@
 import Twitter from '@public/assets/Images/blog/socials/twitter.png';
 import Linkedin from '@public/assets/Images/blog/socials/linkedin.png';
 import Facebook from '@public/assets/Images/blog/socials/facebook.png';
+import ai from '@public/assets/Images/blog/AI.svg';
+import onpageImage from '@public/assets/Images/blog/onPage.svg';
 
-import ai from '@public/assets/Images/blog/AI.png';
-import onPage from '@public/assets/Images/blog/onpage.png';
-import analytics from '@public/assets/Images/blog/Analytics.png';
-import metaAds from '@public/assets/Images/blog/Meta Ads.png'
-import TechnicalSeo from '@public/assets/Images/blog/Technical SEO.png'
+import analytics from '@public/assets/Images/blog/Analytics.svg';
+import metaAds from '@public/assets/Images/blog/Meta Ads.svg'
+import TechnicalSeo from '@public/assets/Images/blog/Technical SEO.svg'
 
 const BlogSingleData= [
   {
     id: "exploring-the-transformative-power-of-artificial-intelligence",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/IMG-20241116-WA0002.jpg?alt=media&token=a652a5c9-b2c1-4341-ab8a-78f0a5746e00",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/AI.svg?alt=media&token=e6713170-fbd1-42a4-a365-7ec02551fb77",
     category: "Artificial Intelligence",
     read: "4.5 minutes read",
     title: "Exploring the Transformative Power of Artificial Intelligence",
@@ -76,7 +76,7 @@ const BlogSingleData= [
   {
     id: "your-guide-for-technical-seo-make-your-website-shine-for-search-engines",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/IMG-20241116-WA0006.jpg?alt=media&token=6ce5a91e-20a0-4c31-ab21-a6dc17731b1b",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Technical%20SEO.svg?alt=media&token=823e57a5-335a-4ebc-89ae-e3e1805f5818",
     category: "SEO",
     read: "5.5 minutes read",
     title: "Your Guide for Technical SEO: Make Your Website Shine for Search Engines",
@@ -220,7 +220,7 @@ const BlogSingleData= [
   {
     id: "how-to-make-a-meta-ad-a-step-by-step-guide",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/IMG-20241116-WA0004.jpg?alt=media&token=f9945575-f2d5-4b95-b22f-80d75ab43319",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Meta%20Ads%20(1).svg?alt=media&token=986bb087-b4a7-446d-9dcc-f578edfda11d",
     category: "Marketing",
     read: "5 minutes read",
     title: "How to Make a Meta Ad: A Step-by-Step Guide",
@@ -354,7 +354,7 @@ const BlogSingleData= [
   {
     id: "how-to-leverage-customer-segmentation-for-better-targeting",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/IMG-20241116-WA0003.jpg?alt=media&token=5879f587-ceca-4839-a151-76cd4f79c92d",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/Analytics.svg?alt=media&token=6f6d0cf5-1997-4581-a376-a54eb54cac2a",
     category: "SEO",
     read: "6 minutes read",
     title: "How to Leverage Customer Segmentation for Better Targeting",
@@ -486,13 +486,13 @@ const BlogSingleData= [
   {
     id: "optimize-your-website-lets-explore-on-page-and-off-page-seo-together",
     bgcolor: "#82a8fd",
-    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/IMG-20241116-WA0005.jpg?alt=media&token=d190f826-5479-4f43-8306-5cbf9df8b68a",
+    metaImage:"https://firebasestorage.googleapis.com/v0/b/prfecai-data.firebasestorage.app/o/On-Page%26Off-Page.svg?alt=media&token=260f085e-a8df-4fb4-8759-c618d2ca8b0c",
     category: "SEO",
     read: "5.5 minutes read",
     title: "Optimize Your Website: Let’s explore on-page and off-page SEO together",
     author: "Eniya Mahendran",
     date: "November 15, 2024",
-    image: onPage,
+    image: onpageImage,
     twitter:Twitter,
     linkedin:Linkedin,
     facebook:Facebook,
