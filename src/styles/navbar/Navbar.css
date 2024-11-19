@@ -6,7 +6,7 @@
     position: fixed;
     z-index: 100;
     background-color: var(--prfec-black);
-    height: 52px;
+    height: 56px;
   }
   .navbar-container {
     width: 85%;
@@ -22,7 +22,7 @@
     align-items: center;
     }
   .prfec-logo {
-    height: 28px;
+    height: 24px;
     width: auto;
   }
   .navbar-contents{
@@ -41,7 +41,7 @@
   }
   .navbar-login{
     width: max-content;
-    padding: 8px 20px;
+    padding: 6px 20px;
     border:2px solid var(--prfec-clr);
     border-radius:10px;
     background-color: var(--prfec-clr);

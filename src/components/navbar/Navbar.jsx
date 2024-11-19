@@ -93,7 +93,7 @@ export const Navbar = () => {
         <div className='navbar-contents'>
           <div className='navbar-contents-category'>SEO</div>
           <div className='navbar-contents-category'>Marketing</div>
-          <div className='navbar-contents-category'>AI</div>
+          <div className='navbar-contents-category'>Artificial Intelligence</div>
           <Link href="https://prfec.ai/login" className='navbar-login' onClick={handleLinkClick} style={{marginLeft:"10px"}}>Get Started</Link>
         </div>
         ):
@@ -107,7 +107,7 @@ export const Navbar = () => {
                   <div className="navbar-profile-dropdown">
                     <div className='navbar-contents-category'>SEO</div>
                     <div className='navbar-contents-category'>Marketing</div>
-                    <div className='navbar-contents-category'>AI</div>
+                    <div className='navbar-contents-category'>Artificial Intelligence</div>
                     <Link
                       href="/account-settings"
                       onClick={() => handleNavigation("/account-settings")}
@@ -139,14 +139,14 @@ export const Navbar = () => {
               <>
                <div className='navbar-contents-category'>SEO</div>
               <div className='navbar-contents-category'>Marketing</div>
-              <div className='navbar-contents-category'>AI</div>
+              <div className='navbar-contents-category'>Artificial Intelligence</div>
               <Link href="https://prfec.ai/login" className='navbar-login' onClick={handleLinkClick}>Get Started</Link>
               </>
             ) : (
               <>
               <div className='navbar-contents-category'>SEO</div>
               <div className='navbar-contents-category'>Marketing</div>
-              <div className='navbar-contents-category'>AI</div>
+              <div className='navbar-contents-category'>Artificial Intelligence</div>
                 <Link href="/account-settings" onClick={() => handleNavigation("/account-settings")}  >
                   <p>Profile</p>
                 </Link>
