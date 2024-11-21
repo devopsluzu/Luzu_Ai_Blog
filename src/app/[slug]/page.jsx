@@ -1,13 +1,13 @@
 import React from 'react';
 import BlogSingleData from '@api/blog/BlogSingleData'; // Assuming this fetches blog data
 import BlogPage from '@components/blog-page/blog-single/BlogSingle'; 
-import  getOpenGraphImage  from './opengraph-image.js';
+import  getOpenGraphImage  from '../../components/opengraph-image.js';
 import { notFound } from 'next/navigation';
 
 export async function generateMetadata({ params, searchParams }, parent) {
   const id= params.slug;
   const product = BlogSingleData.find(blog => blog.id === id);
-  const imageUrl = getOpenGraphImage; // Get the Open Graph image based on the product ID
+  const imageUrl = product.metaImage; // Get the Open Graph image based on the product ID
 
   if(!product){
     return notFound();
@@ -22,13 +22,21 @@ export async function generateMetadata({ params, searchParams }, parent) {
       title: product.title, 
       description: product.metaDescription,
       url: `https://blog.trafyai.com/${product.id}`,
+      images: [
+        {
+          url: product.metaImage,
+          width: 1200,
+          height: 630,
+          alt: "Prfec AI - Business Solutions"
+        }
+      ],
+
     },
     twitter: {
       card: 'summary_large_image',
       title: product.title,
       description: product.metaDescription,
       url: `https://blog.trafyai.com/${product.id}`,
-      image: imageUrl, // Use the same image for Twitter
     },
   }
 }
