@@ -22,10 +22,10 @@ export default function BlogLanding() {
                 <h1>{item.title}</h1>
                 <p>{item.metaDescription}</p>
                 <div className="blog-landing-banner-author">
-                  <p>
+                  {/* <p>
                     By <strong>{item.author}</strong>
                   </p>
-                  <span>|</span>
+                  <span>|</span> */}
                   <p>{item.date}</p>
                 </div>
               </div>
@@ -67,7 +67,7 @@ export default function BlogLanding() {
                       </p>
                     </div>
                     <div className="blog-landing-card-author">
-                      <p>{item.author}</p>
+                      {/* <p>{item.author}</p> */}
                       <p>{item.date}</p>
                     </div>
                   </div>

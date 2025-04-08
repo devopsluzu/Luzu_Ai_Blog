@@ -44,9 +44,9 @@ const BlogImage = (props) => {
             <Image className="blog-page-img" src={props.image} alt={props.title}/>
             <div className="blog-page-article-socials">
                 Share:
-                <Image src={Linkedin} alt="" onClick={shareToLinkedIn} className="blog-social-b" width="28" height="28" />
-                <Image src={Facebook} alt="" onClick={shareToFacebook} className="blog-social-b" width="28" height="28" />
-                <Image src={Twitter} alt="" onClick={shareToTwitter} className="blog-social-b" width="28" height="28" />
+                <Image src={Linkedin} alt="linkedin" onClick={shareToLinkedIn} className="blog-social-b" width="28" height="28" />
+                <Image src={Facebook} alt="facebook" onClick={shareToFacebook} className="blog-social-b" width="28" height="28" />
+                <Image src={Twitter} alt="X" onClick={shareToTwitter} className="blog-social-b" width="28" height="28" />
             </div>
         </section>
   </div>

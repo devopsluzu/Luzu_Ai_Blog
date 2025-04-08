@@ -275,9 +275,10 @@
 .blog-page-hero-section-para p{
     font-size: 18px;
     font-family: var(--p-font);
-    color: var(--p-black);
+    color: #100700;
     font-weight: 400;
     line-height: 170%;
+    
 
 }
 .blog-page-hero-section-author{
@@ -288,7 +289,7 @@
 .blog-page-hero-section-author p{
     font-size: 13px;
     font-family: var(--p-font);
-    color: var(--p-black);
+    color: #100700;
     font-weight: 400;
     margin: 0;
 }

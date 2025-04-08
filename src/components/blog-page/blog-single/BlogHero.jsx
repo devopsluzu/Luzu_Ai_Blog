@@ -19,8 +19,8 @@ const BlogHero = (props) => {
             </div>
 
             <div className="blog-page-hero-section-author">
-                <p>By <span style={{ fontWeight: "700" }}>{props.author} </span></p>
-                <span style={{ color: "#d1d1d1" }}>|</span>
+                {/* <p> <span style={{ fontWeight: "700" }}>{props.author} </span></p>
+                <span style={{ color: "#d1d1d1" }}>|</span> */}
                 <p>{props.date}</p>
                 <p style={{paddingLeft:"0.5rem"}}>{props.read}</p>
             </div>
